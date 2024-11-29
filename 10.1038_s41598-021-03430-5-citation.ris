@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Wang, Shujuan
+AU  - Dai, Yuntao
+AU  - Shen, Jihong
+AU  - Xuan, Jingxue
+PY  - 2021
+DA  - 2021/12/15
+TI  - Research on expansion and classification of imbalanced data based on SMOTE algorithm
+JO  - Scientific Reports
+SP  - 24039
+VL  - 11
+IS  - 1
+AB  - With the development of artificial intelligence, big data classification technology provides the advantageous help for the medicine auxiliary diagnosis research. While due to the different conditions in the different sample collection, the medical big data is often imbalanced. The class-imbalance problem has been reported as a serious obstacle to the classification performance of many standard learning algorithms. SMOTE algorithm could be used to generate sample points randomly to improve imbalance rate, but its application is affected by the marginalization generation and blindness of parameter selection. Focusing on this problem, an improved SMOTE algorithm based on Normal distribution is proposed in this paper, so that the new sample points are distributed closer to the center of the minority sample with a higher probability to avoid the marginalization of the expanded data. Experiments show that the classification effect is better when use proposed algorithm to expand the imbalanced dataset of Pima, WDBC, WPBC, Ionosphere and Breast-cancer-wisconsin than the original SMOTE algorithm. In addition, the parameter selection of the proposed algorithm is analyzed and it is found that the classification effect is the best when the distribution characteristics of the original data was maintained best by selecting appropriate parameters in our designed experiments.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-03430-5
+DO  - 10.1038/s41598-021-03430-5
+ID  - Wang2021
+ER  - 
